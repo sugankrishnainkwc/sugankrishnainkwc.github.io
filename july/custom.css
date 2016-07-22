@@ -1,0 +1,27 @@
+.parallax
+{
+	background-image: url("header.jpg");
+	height: 673px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.sug-abtme-parallax
+{
+	background-image: url("section.jpg");
+	height: 673px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.sug-myskill-parallax
+{
+	background-image: url("header.jpg");
+	height: 673px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
